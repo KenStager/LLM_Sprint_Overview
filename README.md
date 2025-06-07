@@ -56,14 +56,15 @@ This structured approach efficiently addresses problems traditionally tackled by
 
 Living documentation ensures ongoing clarity and alignment, enabling rapid progression without traditional delays:
 
-| Document                                    | Purpose                                       | Update Frequency   |
-| ------------------------------------------- | --------------------------------------------- | ------------------ |
-| `CLUSTERING_ENGINE_STRATEGY_V3.md`          | Comprehensive technical details (1,707 lines) | Major milestones   |
-| `CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md` | Clear task and progress tracking              | Continuous         |
-| `CLUSTERING_V3_QUICK_REF.md`                | Executive summary                             | As required        |
-| `CLUSTERING_V3_DELIVERY_OVERVIEW.md`        | Final outcomes and achievements               | Sprint conclusion  |
-| `SNAPPED Clustering Session Completion Log` | Record of work and technical notes            | Session end        |
-| `SNAPPED Clustering Continuation Prompt`    | Efficient handoffs between sessions           | Session initiation |
+| Document | Purpose | Update Frequency |
+|----------|---------|------------------|
+| [`CLUSTERING_ENGINE_STRATEGY_V3.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_ENGINE_STRATEGY_V3.md) | Comprehensive technical details (1,707 lines) | Major milestones |
+| [`CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md) | Clear task and progress tracking | Continuous |
+| [`CLUSTERING_V3_QUICK_REF.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_QUICK_REF.md) | Executive summary | As required |
+| [`CLUSTERING_V3_DELIVERY_OVERVIEW.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_DELIVERY_OVERVIEW.md) | Final outcomes and achievements | Sprint conclusion |
+| [`SNAPPED Clustering Session Completion Log`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/SNAPPED%20Clustering%20Session%20Completion%20Log.md) | Record of work and technical notes | Session end |
+| [`SNAPPED Clustering Continuation Prompt`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/SNAPPED%20Clustering%20Continuation%20Prompt.md) | Efficient handoffs between sessions | Session initiation |
+
 
 ## Technical Milestones
 
