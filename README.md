@@ -2,7 +2,19 @@
 
 ## Overview
 
-This repository demonstrates a structured and powerful approach to leveraging Large Language Models (LLMs) for rapid, production-ready software development—highlighting progressive refinement, strategic documentation, and the ability to maintain both high-level architectural oversight and detailed technical implementations simultaneously.
+Great chatting today! This repository expands on what I shared during our Zoom call, giving you a deeper look at my process for using LLMs to speed up software development from idea to production-ready solutions.
+
+On the call, I showed a simplified version of the pipeline running locally with React instead of Docker. As I mentioned, my React/Node packages were a bit behind because I've fully transitioned to Docker for the production environment. Rebuilding Docker images live didn’t seem like a great use of your time, so we kept it brief. After the call wrapped up, I took about 90 minutes to audit the current codebase, document exactly what needed to change, map out a clear plan, and create detailed guidance documents—which you'll find here.
+
+Once that was set, it only took around three hours of focused work leveraging LLMs and MCPs to handle implementation, run tests, and clean up technical debt. It's honestly pretty amazing—work that would typically occupy a whole team for weeks can be tackled in just a few hours using this structured approach.
+
+I often joke with my friends and family that I “work in a vacuum,” so being able to nerd out with you both today about how we're leveraging these powerful tools was genuinely refreshing. I figured you might appreciate a closer look at the exact methods and structure behind the scenes.
+
+I've always described myself as someone who "makes things that make things," and this repository captures exactly that—structured prompt engineering combined with disciplined documentation, detailed implementation checklists, and clear strategic planning. LLMs themselves aren’t inherently smart, just incredibly capable. Success comes down to careful orchestration, thoughtful prompting, and maintaining clear boundaries to keep things focused and efficient.
+
+Anyway, I’m excited for you to explore what I've put together. My process and approach has come a long way over the past few months, and your feedback or thoughts would mean a lot.
+
+---
 
 ## Core Innovation: Progressive Context Management
 
@@ -25,6 +37,7 @@ We begin by thoroughly documenting the project's current state to facilitate rap
 - Current State: 183 clusters (0 duplicates), 169 unclustered articles
 - Immediate Challenge: Integrating two previously incompatible clustering engines
 ```
+---
 
 ### 2. Progressive Problem-Solving
 
