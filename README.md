@@ -50,13 +50,18 @@ Rather than attempting to solve everything at once, we guide the LLM through lay
 
 Each document serves a specific purpose in the LLM workflow:
 
+### Living Documentation
+
+Each document serves a specific purpose in the LLM workflow:
+
 | Document | Purpose | Update Frequency |
 |----------|---------|------------------|
-| `CLUSTERING_ACTION_GUIDE.md` | Immediate next steps | Daily |
-| `CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md` | Progress tracking | Per task |
-| `CLUSTERING_ENGINE_STRATEGY_V3.md` | Technical reference | Per major change |
-| `Session Completion Log` | Work record & achievements | End of session |
-| `Continuation Prompt` | Enable seamless handoffs | Start of new session |
+| [`CLUSTERING_ENGINE_STRATEGY_V3.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_ENGINE_STRATEGY_V3.md) | Complete technical implementation (1,707 lines) | Per major change |
+| [`CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_IMPLEMENTATION_CHECKLIST.md) | Progress tracking & task management | Per task |
+| [`CLUSTERING_V3_QUICK_REF.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_QUICK_REF.md) | Executive summary & quick reference | As needed |
+| [`CLUSTERING_V3_DELIVERY_OVERVIEW.md`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/CLUSTERING_V3_DELIVERY_OVERVIEW.md) | What was delivered & outcomes | End of sprint |
+| [`SNAPPED Clustering Session Completion Log`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/SNAPPED%20Clustering%20Session%20Completion%20Log.md) | Work record & technical achievements | End of session |
+| [`SNAPPED Clustering Continuation Prompt`](https://github.com/KenStager/LLM_Sprint_Overview/blob/main/SNAPPED%20Clustering%20Continuation%20Prompt.md) | Enable seamless session handoffs | Start of new session |
 
 ## 🔧 Technical Achievements
 
