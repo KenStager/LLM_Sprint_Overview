@@ -1,8 +1,8 @@
 # SNAPPED Clustering Session Completion Log
 
 ## Session Context
-- **Working Directory**: `/Users/kenny/Desktop/Snapped_Production/`
-- **Database**: Supabase project `ahfwzfmetiqpvyzhrgxh`
+- **Working Directory**: `<repo-root>/`
+- **Database**: Supabase project `<project-ref>`
 - **Initial State**: 183 clusters (0 duplicates), 169 unclustered articles
 - **Primary Task**: Evaluate clustering engines and develop production strategy
 

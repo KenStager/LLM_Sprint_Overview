@@ -13,7 +13,7 @@ text_similarity: 0.05  # from 0.10
 
 ### 2. 🚀 Run Clustering on 169 Articles
 ```bash
-cd /Users/kenny/Desktop/Snapped_Production/
+cd <repo-root>/
 docker-compose -f docker-compose.production.yml run clustering python -m clustering
 ./run_duplicate_monitor.sh  # Verify no duplicates
 ```

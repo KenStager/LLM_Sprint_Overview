@@ -4,8 +4,8 @@
 I need to continue work on the SNAPPED Pipeline clustering system. In the previous session, we analyzed two clustering engines and identified critical bugs that need immediate fixes before we can proceed with implementation.
 
 ## System Information
-- **Working Directory**: `/Users/kenny/Desktop/Snapped_Production/`
-- **Database**: Supabase project `ahfwzfmetiqpvyzhrgxh` (MCP connected)
+- **Working Directory**: `<repo-root>/`
+- **Database**: Supabase project `<project-ref>` (MCP connected)
 - **Docker**: Production setup ready
 - **Current State**: 183 clusters (0 duplicates), 169 unclustered articles waiting
 
